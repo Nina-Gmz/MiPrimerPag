@@ -1,0 +1,61 @@
+h1 {
+    text-align: center;
+} 
+body {background-color: lemonchiffon;}
+
+p{color: olivedrab;
+   font-family: Verdana,  Tahoma;
+font-size: 16px;}
+
+.titulo {
+    color: #A53960;
+  font-family: 'Bebas Neue', sans-serif;
+
+}
+.axo {
+    width: 200px;
+  display: flex;
+ margin-left: 560px;
+ margin-bottom: 15px;
+ margin-top: 15px;
+    border-radius: 24px;
+}
+a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding: 5px;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: #eb9ab8;
+    
+}
+.lista {
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.micro{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 250px;
+    height: 160px;
+}
+
+.algas{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 250px;
+    height: 160px;
+}
+.lombriz {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 250px;
+    height: 160px;
+}
